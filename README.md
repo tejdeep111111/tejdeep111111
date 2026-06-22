@@ -1,56 +1,30 @@
-<h1 align="center">Hi, I'm Tej Deep 👋</h1>
-<h3 align="center">Software Developer | Java Enthusiast | Building cool things</h3>
+## Hey, I'm Tej Deep 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+Backend-focused CS undergrad who builds things with Java — real, running systems, not toy apps.  
+I care about concurrency, clean architecture, and understanding *why* something works, not just *that* it works.
 
 ---
 
-### 🚀 About Me
-- 🎓 Studying at **National Institute of Technology, Goa**
-- 💻 Mainly write **Java**, exploring other languages along the way
-- 🌱 Currently learning **(e.g. Spring Boot, System Design, DSA)**
-- 🎯 Goal: **(e.g. crack SDE interviews / contribute to open source)**
+### Things that have Life and ARE GREAT
+
+**[Real-Time Auction System](https://github.com/tejdeep111111/auction-simulation)**  
+Started as a JavaFX project. Ended up being a deep dive into what "concurrent bidding" actually means — race conditions, lost updates, and why synchronized methods exist. More fun than I expected.
+
+**[promptbetter](https://github.com/tejdeep111111/promptbetter)**  
+An app that scores how good your AI prompts are, across 5 dimensions, and tracks your improvement over time. Built the whole backend — auth, API, the LLM evaluation pipeline. Scratched my own itch, since I use LLMs a lot.
+
+**[QuickPDF](https://github.com/tejdeep111111/quickpdf)**  
+A tiny always-on-top desktop utility: press `Alt+Q`, drag Image(s) in, rename the output inline, drag the PDF out — directly into whatever form or window you're filling. No browser tools, no uploads, no switching context. Built with JavaFX + PDFBox + a global hotkey hook that works even when the app isn't focused. Currently planning a Rust rewrite to ditch the 400MB JavaFX footprint.
 
 ---
 
-### 🛠️ Featured Projects
+### Tech Stack
 
-#### 🔹 [Project Name One](https://github.com/yourusername/project-one)
-Short one-line description of what it does and why it's interesting.
-`Java` `Spring Boot` `MySQL`
-
-#### 🔹 [Project Name Two](https://github.com/yourusername/project-two)
-Short one-line description of what it does and why it's interesting.
-`Java` `Android` `Firebase`
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,rust,idea,postman&theme=dark" />
 
 ---
 
-### 🧰 Tech Stack
+### Connect
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true"/>
-</p>
-
----
-
-### 📫 Reach Me
-Feel free to connect — always open to interesting conversations, collaborations, or feedback!
+<a href="mailto:tejdeep111111@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/></a>
